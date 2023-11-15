@@ -1,2 +1,2 @@
 # projeto1
-Curso de versionamento - reambientacao git
+Curso de versionamento - reambientação git
